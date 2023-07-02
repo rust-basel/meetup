@@ -9,12 +9,12 @@ If you want to give a talk related to rust, have a look at the [contribution](#h
 - [Past Meetups](#past-meetups)
 - [Contribute](#how-to-contribute)
 
-## Next Meetup
+# Next Meetup
 
 ### Talks/Topics:
 - // todo - replace this todo with a talk topic, you want to give at our next rust meetup
 
-## Past Meetups
+# Past Meetups
 
 ## #8 07/01/23 - @[WBZ](https://www.wbz.ch/)
 
