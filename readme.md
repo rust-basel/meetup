@@ -12,7 +12,8 @@ If you want to give a talk related to rust, have a look at the [contribution](#h
 # Next Meetup
 
 ### Talks/Topics:
-- // todo - replace this todo with a talk topic, you want to give at our next rust meetup
+- Webassembly with Rust - how you can create and use npm packages with it
+- Test Driven Development with Rust
 
 # Past Meetups
 
