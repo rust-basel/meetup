@@ -23,7 +23,7 @@ Beginner Rust Workshop - CRUD webserver with [axum](https://github.com/tokio-rs/
   - [Starter Template](https://github.com/rust-basel/axum-pokedex-starter)
   - [Possible Solution](https://github.com/rust-basel/axum-pokedex)
 
-## #7 03/28/2023 - @[E+H](https://www.endress.com/en/endress-hauser-group/product-center-competencies/endress-hauser-digital-solutions)
+## #7 03/28/23 - @[E+H](https://www.endress.com/en/endress-hauser-group/product-center-competencies/endress-hauser-digital-solutions)
 
 Foreign Function Interfaces
 - [Slides](https://docs.google.com/presentation/d/1h-85FV6myH_K9KIWYPGGgiB8Izp7zx5RUpfd3k2_0Ys/edit?usp=drivesdk) 
