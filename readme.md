@@ -20,8 +20,9 @@ If you want to give a talk related to rust, have a look at the [contribution](#h
 
 Beginner Rust Workshop - CRUD webserver with [axum](https://github.com/tokio-rs/axum):
   - [Slides](https://github.com/rust-basel/rust-meetup-8)
-  - [Starter Template](https://github.com/rust-basel/axum-pokedex-starter)
-  - [Possible Solution](https://github.com/rust-basel/axum-pokedex)
+  - Resources:
+    - [Starter Template](https://github.com/rust-basel/axum-pokedex-starter)
+    - [Possible Solution](https://github.com/rust-basel/axum-pokedex)
 
 ## #7 03/28/23 - @[E+H](https://www.endress.com/en/endress-hauser-group/product-center-competencies/endress-hauser-digital-solutions)
 
