@@ -30,13 +30,11 @@ Foreign Function Interfaces
 - [Slides](https://docs.google.com/presentation/d/1h-85FV6myH_K9KIWYPGGgiB8Izp7zx5RUpfd3k2_0Ys/edit?usp=drivesdk) 
 - [Resources](https://github.com/yguenduez/cxx-corrosion-ffi)
 
-Axum Framework
-- Slides: 
-- Resources:
+IDE-level coding in web apps
+- [Slides](https://docs.google.com/presentation/d/1BdkUcrBshtd4XkH_NpWh_a0vXNGpGdyJ/edit?usp=sharing&ouid=109325622117785913183&rtpof=true&sd=true) 
 
 Cloud Native Event Streaming
-- Slides:
-- Resources
+- [Slides](https://drive.google.com/file/d/1upqLGw3vnqFiuWXtfcpB9q04s0H7-TL_/view?usp=sharing)
 
 # How to contribute:
 
