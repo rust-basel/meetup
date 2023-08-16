@@ -9,7 +9,7 @@ If you want to give a talk related to rust, have a look at the [contribution](#h
 - [Past Meetups](#past-meetups)
 - [Contribute](#how-to-contribute)
 
-# Next Meetup
+# Next Meetup - 11/07/23
 
 ### Talks/Topics:
 - // todo - replace this todo with a talk topic, you want to give at our next rust meetup
