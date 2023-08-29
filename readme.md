@@ -9,7 +9,7 @@ If you want to give a talk related to rust, have a look at the [contribution](#h
 - [Past Meetups](#past-meetups)
 - [Contribute](#how-to-contribute)
 
-# Next Meetup - 11/07/23
+# Next Meetup - 11/21/23, 6PM - @[E+H](https://www.endress.com/en/endress-hauser-group/product-center-competencies/endress-hauser-digital-solutions)
 
 ### Talks/Topics:
 - // todo - replace this todo with a talk topic, you want to give at our next rust meetup
